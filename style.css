@@ -1,7 +1,7 @@
 .red>header{
     color: white;
     overflow: visible;
-    background: url(../image/tok.jpg) no-repeat center;
+    background: url(tok.jpg) no-repeat center;
     background-size:cover;
     height: 600px;
     position: relative;
@@ -134,7 +134,7 @@ img.den{
  }
 
  .col:hover{
-  background-image: url(../image/COLLEGE-2.jpg);
+  background-image: url(COLLEGE-2.jpg);
   color: white;
  }
   
