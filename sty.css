@@ -38,7 +38,7 @@
     box-sizing: border-box;
     border: 1px solid lavender;
     border-radius: 2px;
-    background-image:url(../image/eye.png);
+    background-image:url(eye.png);
     background-position: right bottom;
     background-repeat: no-repeat;
     padding-right: 30px;
@@ -46,7 +46,7 @@
  }
 
 
- img.saw{
+  .saw{
     width: 25%;
     height: 10%;
     padding: 15%;
